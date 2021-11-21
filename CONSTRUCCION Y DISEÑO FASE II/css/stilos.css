@@ -10,3 +10,6 @@ main{
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
+aside{
+    grid-column: 4/5;
+}
