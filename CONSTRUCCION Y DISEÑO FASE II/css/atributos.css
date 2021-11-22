@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    border: 3px dashed red;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+
+}
+h2{
+    text-align: center;
+    font: family 2px Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+header{
+    background-color: rgb(145, 28, 28);
+    
+}
+main{
+    background-color: rgb(136, 49, 49);
+}
+footer{
+    background-color: rgb(46, 38, 38);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+

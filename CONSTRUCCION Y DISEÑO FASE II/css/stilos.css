@@ -4,6 +4,7 @@ header{
 }
 section{
     grid-column: 1/4 ;
+    background-color: rgb(78, 67, 53);
 }
 main{
     display: grid;
@@ -12,4 +13,12 @@ main{
 }
 aside{
     grid-column: 4/5;
+}
+nav{
+    background-color: rgb(145, 74, 48);
+}
+footer{
+    background-color: rgb(29, 26, 26);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
