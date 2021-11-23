@@ -1,0 +1,27 @@
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: rgb(53, 53, 221);
+
+}
+section{
+    grid-column: 1/4;
+
+}
+aside{
+    grid-column: 4/5;
+}
+header{
+    background-color: rgb(17, 17, 243);
+}
+footer{
+    background-color: rgb(9, 9, 36);
+    color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article{
+    background-color: rgb(34, 34, 141);
+}
+h2{
+    text-align: center;
+}

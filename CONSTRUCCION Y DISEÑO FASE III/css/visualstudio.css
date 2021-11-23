@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+
+}
+header{
+    background-color: rgb(138, 71, 24);
+}
+
+main{
+    background-color: rgb(70, 46, 30);
+}
+footer{
+    background-color: rgb(44, 38, 38);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

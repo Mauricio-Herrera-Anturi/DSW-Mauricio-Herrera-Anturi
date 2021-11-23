@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    border: 3px dashed red;
+    width: 500px;
+    height: 40em;
+}
+.img1{
+    display: flex;
+    justify-content:center;
+
+}
+div{
+    grid-column: 8/14;
+
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
+section{
+    grid-column: 2/7;
+}
+iframe{
+    width: 600px;
+    height: 100em;
+}
+footer{
+    background-color: rgb(9, 9, 36);
+    color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
